@@ -79,5 +79,5 @@ The utility timer functions `timeit`, `profileit` and `cumtimeit` are available 
 # Contributing
 * See Issues tab, and feel free to submit your own issues
 * Add PRs if you discover a solution to an existing issue
-* For further discussions and questions, post in [Discussions](https://github.com/vyperlang/vyper/discussions) or talk to us on [Discord](https://discord.gg/6tw7PTM7C2)
+* For further discussions and questions, post in [Discussions](https://github.com/vyperlang/vyper/discussions) or talk to us on [Discord](https://discord.gg/6tw7PTM7C2). 
 * For more information, see [Contributing](http://docs.vyperlang.org/en/latest/contributing.html)
